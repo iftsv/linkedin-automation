@@ -1,6 +1,6 @@
 # linkedin-automation
 
-### 1. Press Connect button automation
+### 1. Press Connect button automation (for English UI)
 1.1. Simple JS snippet
 ```js
 (async function click_connect() {
